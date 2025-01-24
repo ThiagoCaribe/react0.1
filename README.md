@@ -1,3 +1,3 @@
-# react0.1
+# Lista de Filmes
 Projeto com JS.
 
